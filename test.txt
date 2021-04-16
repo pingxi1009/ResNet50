@@ -1,0 +1,11 @@
+Start write!!! 
+Accuracy on test set: (3471/5000)69 % 
+Accuracy on test set: (3907/5000)78 % 
+Accuracy on test set: (4224/5000)84 % 
+Accuracy on test set: (4425/5000)88 % 
+Accuracy on test set: (4412/5000)88 % 
+Accuracy on test set: (4576/5000)91 % 
+Accuracy on test set: (4599/5000)91 % 
+Accuracy on test set: (4572/5000)91 % 
+Accuracy on test set: (4662/5000)93 % 
+Accuracy on test set: (4616/5000)92 % 
